@@ -2,6 +2,10 @@
 
 A modern personal portfolio website showcasing my projects, skills, certifications, and experience as an Artificial Intelligence student.
 
+## 📸 Preview
+![Portfolio Preview](preview.png)
+
+
 ## 🌐 Live Demo
 
 🔗https://layal-portfolio-final.vercel.app/
@@ -34,12 +38,6 @@ The website was iteratively improved using prompt engineering, then deployed on 
 - JavaScript
 - Claude AI
 - Vercel
-
----
-
-## 📸 Preview
-
-![Portfolio Preview](preview.png)
 
 ---
 
