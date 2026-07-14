@@ -1,39 +1,48 @@
-# Layal Aljohani — Portfolio
+# 🚀 AI Portfolio Website
 
-A single-file, self-contained portfolio site: HTML, CSS, and JavaScript
-all in `index.html`, with your photo embedded directly in the file (no
-separate image asset to manage).
+A modern personal portfolio website showcasing my projects, skills, certifications, and experience as an Artificial Intelligence student.
 
-## Open it
+## 🌐 Live Demo
 
-Just double-click `index.html` — it opens in any browser, no build step,
-no server, no dependencies.
+🔗https://layal-portfolio-final.vercel.app/
 
-## Edit the content
+---
 
-All your real content — contact links, projects, skills, certifications,
-the typed hero roles — lives in one place: the `DATA` object near the
-top of the `<script>` section at the bottom of `index.html`. Search for:
+## ✨ About
 
-```js
-const DATA = {
-```
+This portfolio was created using an AI-assisted workflow through **Vibe Coding**.
 
-Everything else (colors, layout, animations) lives in the `<style>`
-block at the top of the same file.
+The website was iteratively improved using prompt engineering, then deployed on **Vercel** to make it publicly accessible.
 
-## Deploy it
+---
 
-Since it's a single static HTML file, it works as-is on:
-- **Netlify / Vercel**: drag-and-drop the folder, or connect a repo
-- **GitHub Pages**: push this folder to a repo and enable Pages
-- **Any static host**: just upload `index.html`
+## 🎯 Features
 
-## Notes
+- ✨ Modern and responsive design
+- 🤖 AI-focused portfolio
+- 💼 Projects showcase
+- 🏆 Certifications section
+- 📄 Downloadable CV
+- 📬 Contact section
 
-- The contact form currently opens the visitor's email client. To have
-  it deliver directly to your inbox, set `FORM_ENDPOINT` in the script
-  to a service like [Formspree](https://formspree.io).
-- The Education & Experience section was intentionally left out since
-  those details haven't been shared yet — add them back in whenever
-  you're ready.
+---
+
+## 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Claude AI
+- Vercel
+
+---
+
+## 📸 Preview
+
+![Portfolio Preview](preview.png)
+
+---
+
+## 🚀 Deployment
+
+This project is deployed on **Vercel**.
